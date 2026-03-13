@@ -1,5 +1,3 @@
-# Sentiment-Analyzer
-Sentiment Analysis project using Python / NLP
 # Sentiment Analyzer
 
 This project is a **Sentiment Analysis application built using Python and Natural Language Processing (NLP)**.  
