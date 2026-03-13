@@ -22,7 +22,3 @@ This project demonstrates how machine learning and NLP techniques can be used to
 - Python
 - Natural Language Processing (NLP)
 - NLTK / TextBlob (if used)
-
----
-
-## 📂 Project Structure
